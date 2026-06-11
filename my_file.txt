@@ -1,0 +1,2 @@
+Hello, LabEx!
+This is my first file using nano.
