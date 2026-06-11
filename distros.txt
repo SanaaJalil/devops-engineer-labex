@@ -1,0 +1,5 @@
+Ubuntu is user-friendly
+UBUNTU is based on Debian
+ubuntu uses GNOME
+Fedora is cutting-edge
+Arch is for power users
