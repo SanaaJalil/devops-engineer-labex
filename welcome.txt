@@ -1,1 +1,2 @@
-Welcome to the Linux file type lab.
+Hello LabExWelcome to the Vim lab.
+Vim is powerful.
