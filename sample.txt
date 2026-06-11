@@ -1,5 +1,4 @@
-Line 1: This is a sample file.
-Line 2: It is used to demonstrate the cat command.
-Line 3: The cat command displays the full content.
-Line 4: This file is short enough to read easily.
-Line 5: End of the sample file.
+Linux is an open-source operating system.
+It is widely used for servers and development.
+The command line interface is powerful.
+Learning Linux commands is fun.
