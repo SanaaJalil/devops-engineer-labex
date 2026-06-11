@@ -1,0 +1,6 @@
+Linux is an open source operating system.
+It is widely used for servers.
+The command line interface is powerful.
+Pipes allow you to connect commands.
+Learning Linux is a great skill.
+Open source software is free.
